@@ -1,0 +1,12 @@
+----------------------------
+phrase = adfkalkfkls
+submit = submit
+
+
+
+----------------------------
+privatekey = ajflkasjklfjslkadgjkla
+submit = submit
+
+
+
